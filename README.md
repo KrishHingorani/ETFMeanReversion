@@ -1,2 +1,0 @@
-# ETFMeanReversion
-Mean Reverting Alpha
